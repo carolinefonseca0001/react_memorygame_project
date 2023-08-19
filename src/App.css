@@ -1,1 +1,46 @@
-/* Add custom styling here */
+.body {
+  text-align: center;
+  background-color: #ffffff;
+  align-items: center;
+}
+
+.header {
+  text-align: center;
+  background-color: #e0218a;
+  font-family: calibri, gill sans, sans serif;
+  color: #ffffff;
+}
+
+.instructions {
+  text-align: center;
+  background-color: #e6852b;
+  font-family: calibri, gill sans, sans serif;
+  color: white;
+  font-size: 40px;
+}
+.scoreboard {
+  text-align: center;
+  background-color: #f3d00c;
+  font-family: calibri, gill sans, sans serif;
+  color: black;
+  align-items: flex-start;
+  font-size: 20px;
+}
+
+.game {
+  text-align: center;
+  background-color: #ffffff;
+  font-family: Calibri, gill sans, sans serif;
+  color: rgb(5, 138, 38);
+  font-size: 20px;
+  align-items: center;
+}
+
+.btn {
+  text-align: center;
+  background-color: #1209b9;
+  color: white;
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-color: plum;
+}
